@@ -15,6 +15,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/nawid01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nawid01&stroke=64748b&background=000000&ring=6366f1&fire=6366f1&currStreakNum=64748b&currStreakLabel=6366f1&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a> <a href="https://github.com/nawid01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawid01&langs_count=10&title_color=6366f1&text_color=64748b&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nawid01&label=Profile%20views&color=0e75b6&style=flat" alt="nawid01" /> </p>
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
